@@ -1,4 +1,4 @@
-# Learning-Journal - Aengus Davies - Week 2
+# Learning-Journal - Aengus Davies - Week 3
 My learning journal for CP3402 Content Management Systems
 
 # Learning Activities and Resources
