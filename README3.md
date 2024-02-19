@@ -2,19 +2,37 @@
 My learning journal for CP3402 Content Management Systems
 
 # Learning Activities and Resources
-On the third week of this subject, I learnt 
-
-the ways in which the Joomla CMS can be utilised on a basic level (shown in the link provided below) with the goal of setting up the website and working on the practical task for week 2, and the first assignment thereafter.
-https://www.youtube.com/watch?v=h5VZwTLdgdM
+On the third week of this subject, I learnt about the Wordpress CMS and the variety of ways in which it can be utilised with respect to website creation (shown in the link below). The initial goal is the creation and working of the Wordpress website for the week 3 practical and subsequent assignment task.
+https://www.youtube.com/watch?v=s28x7sF3Ruc
 
 # Estimated hours
-I have spent roughly 4 hours of my own time this week on the subject
+I have spent roughly 3 hours of my own time this week on the subject
 
 # Content Insights
-The introduction to Joomla CMS that I received from the tutorial video helped greatly in regard to learning how each component worked and operated with one another, in particular the articles, categories and menu features. It also helped to alleviate the initial concerns that I had upon first inspection of the Joomla home screen, which appeared to be quite unintuitive in its design. Overall I am feeling significantly more comfortable regarding my ability to utilise Joomla, and more prepared to learn Wordpress going forward.
+The introduction to Wordpress CMS that I received from the tutorial video helped greatly in my understanding of how Wordpress differed from Joomla. Upon introduction to Wordpress, I could immediately tell that it would be easier to use in comparison to the previous CMS, due to its far more intuitive layout and features, like blocks, pages and posts. I am eager to utilise Wordpress further within this subject.
 
 # Career/Employability/Learning Insights
-From the practical class group interviews that I attended on Friday, I was able to gather useful information from those that I interviewed
+From the practical class group interviews that I attended on Friday, I was able to gather useful information from two individuals that I interviewed. The questions that I asked of them and their subsequent answers are shown below:
 
-Upon completion of this practical, I have learned that the Joomla CMS offers multiple pathways for importing assets, whether it be directly within an article, or within a custom site module, both of which employ what is known as a 'WYSIWYG' editor, or 'What You See Is What You Get'. Going forward past this practical, I will begin learning about Wordpress from this weeks LinkedIn content followed by content from the following week, which goes into detail on blocks and child themes respectively.
+Person 1:
+1. What is the one most desirable trait that you are looking for in a potential group member?
+- Reliability
+2. What is your availability?
+- Scattered availability
+3. What role do you typically play in groups?
+- Group Leader
 
+Person 2:
+1. What is the one most desirable trait that you are looking for in a potential group member?
+- Being reasonable
+2. What is your availability?
+- Late nights mainly weekends
+3. What role do you typically play in groups?
+- Leader / vice-leader role
+
+Upon completion of this group interview task, I was able to garner some employability insights:
+- The desire to be a leader (or an eagerness to grow one's leadership skills) was quite apparent in both interviewed individuals, which suggests that leadership is one of the most sought after characteristics when it comes to workplace and group collaboration (assuming the two interviewees are good representitives of a wider desire within job environments).
+
+- The revealed variety with regard to work availability may be indicative of a broad desire amongst today's current and potential employees, for an increase in shift flexibility and a widening in possible work hours that is irrespective of time zones or time of day.
+
+- Two characteristics of reliability (which could concern one's attendance, willingness and/or consistency of work) and reasonability (which may concern interpersonal skills, ability to collaborate, communicate, and be diplomatic with others) are traits that potential employers could use as metrics, by which to determine the types of people that they would want to work with, and the skillsets that they would like to make present within the workplace.
