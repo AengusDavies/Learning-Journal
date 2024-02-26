@@ -3,6 +3,7 @@ My learning journal for CP3402 Content Management Systems
 
 # Learning Activities and Resources
 On the fourth week of this subject, I have learnt about local development & deployment, and the process of employing a virtual machine for the production of websites, in addition to modern web design processes (as discussed in the following links).
+
 https://www.youtube.com/watch?v=IbOyBIS57C0 
 
 https://www.youtube.com/watch?v=MlsV3hu84as 
