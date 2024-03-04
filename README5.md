@@ -10,12 +10,10 @@ https://www.youtube.com/watch?v=GUzrzDBqbIQ
 I have spent roughly 14 hours of my own time this week on the subject
 
 # Content Insights
-The process of learning how to set up a local environment on my own computer was quite interesting, as I borrowed from my previous experience regarding virtual machines from 
-subjects that I have completed in the past, such as CP1409 - Operating Systems and Shell Scripting. The process was also different in many ways, such as the means by which I 
-initialised my cognacbox virtual machine being from the command prompt, rather than traditionally from VirtualBox directly. I am keen to use local environments further into 
-this subject with the upcoming group project.
+The process of learning how to create a child theme from my WordPress assignment was an intuitive experience, which included the installation and usage of the child theme configurator plugin for the purposes of this practical. As I made modifications to the CSS on my site after inspecting the website code for the desired changes, I went through the process of going through the inspect code in order to find components that were suitable for modification, which is where I then modified the navigation menu elements, as the changes that I made to them were far more noticable and varied in comparison to elements for other components. Overall, I am happy with the experience of child themes.
 
 # Career/Employability/Learning Insights
+Upon completion of this practical, 
 Upon completion of this practical, I began looking further into the modern web design process, in particular the ways in which the focal point of a website or an image on 
 a website, is made distinct from other elements. The creation of this contrast on a website (often referred to as 'white noise') draws similarities to dynamics with regard 
 to music, where certain components of a website reside in the background to allow other elements to shine through in the foreground. 
