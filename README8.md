@@ -9,8 +9,7 @@ On the eighth week of this subject, I will be conducting a learning experiment a
 
 # Content Insights
 **Hypothesis:** 
-A student will be able to recall a greater quantity of information from written text, over a video on the same topic.
-Students who acquire their knowledge from written website content, will be able to recall a larger quantity of information over a video on the same topic.
+Students who acquire their knowledge from written website content, will be able to recall a larger quantity of information over video content on the same topic.
 
 **Test:**
 
