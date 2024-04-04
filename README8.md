@@ -13,15 +13,34 @@ Students who acquire their knowledge from written website content, will be able 
 
 **Test:**
 The learning topic for this experiment will be the following: _Making sure that computer software is up-to-date, and why it is important._
+
+The process of this test will be as follows:
+1. Find one website and one video on the same study topic.
+2. Read the website content
+3. Withdraw from the study area for 30mins, for the purposes of testing one's grasp of information.
+4. Once the time has elapsed, 3 questions regarding what has been learned will be answered to determine the amount of recalled knowledge.
+5. Repeat steps 2-4 using the video content
+6. Compare the amount of knowledge recalled from the two sources.
+
 For the purposes of this test, the following website and video will be studied:
 
-Website:
+Website: https://www.techtarget.com/whatis/feature/5-reasons-software-updates-are-important
 
-Video: 
+Video: https://www.youtube.com/watch?v=DsIjURz8Qig
 
 The efficiency of each learning medium will be determined by a set number of questions relating to their shared content  (used for both mediums), with the answers for each question being compared to one another for quality of information derived.
 
 **Results:**
+
+Website:
+1.
+2.
+3.
+
+Video:
+1.
+2.
+3.
 
 # Career/Employability/Learning Insights
 **What was learned from the experiment:**
