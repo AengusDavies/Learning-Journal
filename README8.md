@@ -33,14 +33,18 @@ The efficiency of each learning medium will be determined by a set number of que
 **Results:**
 
 Website:
-1.
-2.
-3.
+_Q1: What is one benefit of keeping software up-to-date?_
+
+_Q2: What is a threat actor known to search for on a compromised system?_
+
+_Q3: What is one reason as to why a software manufacturer may send an update to a device?_
 
 Video:
-1.
-2.
-3.
+_Q1: What is one benefit of keeping software up-to-date?_
+
+_Q2: What is a threat actor known to search for on a compromised system?_
+
+_Q3: What is one reason as to why a software manufacturer may send an update to a device?_
 
 # Career/Employability/Learning Insights
 **What was learned from the experiment:**
