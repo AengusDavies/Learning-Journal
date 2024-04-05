@@ -44,11 +44,19 @@ _Q3: What is one reason as to why a software manufacturer would send an update t
 
 Video:
 _Q1: What is one benefit of keeping software up-to-date?_
+- It allows for software compatability.
 
 _Q2: What is a threat actor known to search for on a compromised system?_
+- Access to a computer system.
 
 _Q3: What is one reason as to why a software manufacturer would send an update to a device?_
+- One reason would be to maintain device security.
 
 # Career/Employability/Learning Insights
 **What was learned from the experiment:**
+As determined from this experiment, the written website content offered a higher quantity of information, with greater detail and accuracy given to the answers, relative to the content of both mediums.
+
+**What would be done differently if the experiment were to be repeated:**
+
+
 
