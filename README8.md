@@ -57,6 +57,5 @@ _Q3: What is one reason as to why a software manufacturer would send an update t
 As determined from this experiment, the written website content offered a higher quantity of information, with greater detail and accuracy given to the answers, relative to the content of both mediums.
 
 **What would be done differently if the experiment were to be repeated:**
-
-
-
+If this experiment were to conducted again, the following change would be implemented:
+- Having 2 people conduct the test, with one person for the website content and the other for video content. This change would be made to mitigate against an accruement of knowledge, which affects the results of going from the website content to the video content, when conducted by an individual.
